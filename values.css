@@ -91,6 +91,21 @@ body{
     margin-bottom: 30px;
   }
 }
+@media (max-width:767px)
+{
+  .wrabber{
+    width: 90%;
+  }
+  .single-service{
+    width:85%;
+    margin-bottom: 40px;
+  }
+  .single-service p{
+    font-size: 16px;
+  }
+  
+
+}
 
 
 @media (max-width: 600px) {
