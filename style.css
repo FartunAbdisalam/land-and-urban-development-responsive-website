@@ -4,6 +4,16 @@
 body{
   background: #f2f0ef;
 }
+.navbar-brand
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar-brand span {
+  font-size:20px;
+  font-weight: bold;
+}
 .section-padding{
   padding: 100px 0;
 }
